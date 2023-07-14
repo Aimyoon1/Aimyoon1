@@ -33,12 +33,7 @@
 
 </div>
 
-<div>
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-<img align='right' alt='urahara-kisuke' width="400" src="https://media.tenor.com/9gtJj5pjXb4AAAAC/chrollo-lucilfer-hunter-x-hunter.gif">
+<img align='right' alt='urahara-kisuke' width="400" height="250" src="https://media.tenor.com/9gtJj5pjXb4AAAAC/chrollo-lucilfer-hunter-x-hunter.gif">
 
 <br>
 
@@ -67,9 +62,9 @@
 <br>
 
 <!-- TROPHIES GITHUB -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aimyoon1&theme=dracula&column=8" alt="aimyoon1" /></a> </p>
+<p align="center"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aimyoon1&theme=dracula&column=8" alt="aimyoon1" /></a> </p>
 
-<!-- STATS Y LENGUAJES MAS USADOS -->
+<!-- STATS -->
 <div align="center">  
   <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aimyoon1&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Aimyon git stats" /> 
   
