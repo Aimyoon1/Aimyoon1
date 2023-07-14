@@ -1,7 +1,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/blob/main/assets/banner-header.gif">
 
-<!-- VISTAS DEL PERFIL -->
+<!-- Viewers -->
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=aimyoon1&label=Profile%20views&color=0e75b6&style=flat" alt="aimyoon1" /> </p>
 
 <!-- TYPING DATA -->
