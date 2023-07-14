@@ -62,7 +62,7 @@
 <br>
 
 <!-- TROPHIES GITHUB -->
-<p align="center"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=aimyoon1&theme=dracula&column=7" alt="aimyoon1" /></a> </p>
+<p align="center"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=aimyoon1&theme=algolia&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="aimyoon1" /></a> </p>
 
 <!-- STATS -->
 <div align="center">  
