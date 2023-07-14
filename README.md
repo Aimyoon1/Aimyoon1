@@ -33,6 +33,12 @@
 
 </div>
 
+<div>
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<img align='right' alt='urahara-kisuke' width="400" src="https://media.tenor.com/9gtJj5pjXb4AAAAC/chrollo-lucilfer-hunter-x-hunter.gif">
 
 <br>
 
@@ -46,7 +52,10 @@
 </p>
 
 <!-- TECHNICAL SKILLS & TOOLS -->
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">
+  Languages and Tools:
+</h3>
+
 <p align="center">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" />
