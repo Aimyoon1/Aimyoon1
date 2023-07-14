@@ -17,7 +17,23 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2500&pause=15000&color=F7F7F7&center=true&multiline=true&width=1000&height=31&lines=%E2%9A%A1+Fun+fact++-%3E+Sometimes+INFJ+sometimes+ENFJ)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2500&pause=15000&color=F7F7F7&center=true&multiline=true&width=1000&height=31&lines=%F0%9F%9A%80+How+to+contact+-%3E+aimyooon1%40gmai.com)](https://git.io/typing-svg)
+
 </div>
+
+<div align="left">
+  
+  ```dart
+    if(today.self > yesterday.self){
+        print("You are on the right path buddy!");
+        motivation++;
+     }
+
+    // As soon as I learned how to print hello world in Dart programing language, I felt the power in my hand.✨ 
+  ```
+
+</div>
+
+
 <br>
 
 <!-- CONTACT -->
