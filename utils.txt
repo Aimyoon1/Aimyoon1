@@ -4,3 +4,10 @@ Typing effect
 Generate your own ReadMe 
   ---> https://rahuldkjain.github.io/gh-profile-readme-generator/
   ---> https://gprm.itsvg.in/
+
+Cool Snake Effect ( gif ) 
+  ---> https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg
+
+if ( snake effect on your profile Aimyoon✨ ){
+    print("Cool✨");
+}
