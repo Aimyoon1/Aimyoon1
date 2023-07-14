@@ -42,11 +42,11 @@
 <br>
 
 <!-- TROPHIES GITHUB -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aimyoon1&theme=dracula&column=8" alt="andermendoza" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aimyoon1&theme=dracula&column=8" alt="aimyoon1" /></a> </p>
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div align="center">  
-  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aimyoon1&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aimyoon1&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Aimyon git stats" /> 
   
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimyoon1&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
