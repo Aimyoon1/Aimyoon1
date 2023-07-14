@@ -57,7 +57,10 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" />  
           
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" />      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" />    
+
+  <img src="https://www.andre601.ch/GitHub-Markdown/assets/img/logo.png" width="45" height="50" />
+          
 </p>
 <br>
 
